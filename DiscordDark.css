@@ -2712,7 +2712,7 @@
 	background-color: #101010;
 }
 .theme-dark .calendarPicker-sDhzdi .react-datepicker__day.react-datepicker__day--disabled {
-	background-color: #0F0F0F;
+	background-color: #2b2d31;
 	color: #A5A5A5;
 }
 .theme-dark .calendarPicker-sDhzdi .react-datepicker__day.react-datepicker__day--disabled:hover {
@@ -2739,7 +2739,7 @@
 	width: var(--Search-List-Width);
 }
 .searchResultsWrap-5RVOkx .searchHeader-1r_ZSh {
-	background-color: #0F0F0F;
+	background-color: #2b2d31;
 	padding-left: 22px;
 	height: 40px;
 }
@@ -2767,7 +2767,7 @@
 	border-radius: 0px 4px 4px 0px;
 }
 .searchResultsWrap-5RVOkx .searchResult-O9NDji:hover {
-	background-color: #0F0F0F;
+	background-color: #2b2d31;
 }
 .searchResultsWrap-5RVOkx .pageControlContainer-1Mbe6M .pageButton-uta6J3:hover {
 	background-color: #202020;
@@ -2823,7 +2823,7 @@
 	padding: 4px 0px 4px 0px;
 }
 .layer-2BGhQ8 .messageGroupWrapper-1jf_7C:hover {
-	background-color: #0F0F0F;
+	background-color: #2b2d31;
 }
 .layer-2BGhQ8 .messageGroupWrapper-1jf_7C:nth-last-child(1) {
 	border: none;
@@ -3660,7 +3660,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 .mouse-mode.full-motion .message-2CShn3:hover,
 .message-2CShn3:hover,
 .message-2CShn3.selected-2LX7Jy {
-	background: var(--bg-overlay-1, #0F0F0F);
+	background: var(--bg-overlay-1, #2b2d31);
 }
 .mentioned-Tre-dv:before {
 	background:	var(--background-mentioned-border);
@@ -3708,7 +3708,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	min-width: 1.125rem;
 }
 .container-2gUZhU .wrapper-2vIMkT {
-	background-color: #0F0F0F;
+	background-color: #2b2d31;
 	border-radius: 5px 5px 0px 0px;
 	box-shadow: none;
 	height: 25px;
@@ -3971,7 +3971,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 .chatContent-3KubbW .container-2sjPya .removeAttachmentButton-1iO1qS,
 .chatContent-3KubbW .container-2sjPya .embedSuppressButton-1rZHq6 {
-	background-color: #0F0F0F;
+	background-color: #2b2d31;
 	border-bottom-left-radius: 5px;
 	right: -2px;
 	z-index: 1;
@@ -4602,7 +4602,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 /* Emoji Picker & Sticker Picker: Nitro Needed Notice */
 .emojiPicker-6YCk8a .premiumPromo-1eKAIB,
 .contentWrapper-3vHNP2 .upsellBackground-34ZERR {
-	background-color: #0F0F0F;
+	background-color: #2b2d31;
 }
 .emojiPicker-6YCk8a .premiumPromo-1eKAIB .premiumPromoClose-Nuntxy {
 	filter: grayscale(1);
@@ -5332,7 +5332,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	margin-bottom: 0px;
 }
 .browser-mnQ1T7 .list-3YHPPb .container-2rzKKA:hover {
-	background-color: #0F0F0F;
+	background-color: #2b2d31;
 }
 .browser-mnQ1T7 .list-3YHPPb .container-2rzKKA .threadName-2k9mLl {
 	color: #FFFFFF;
@@ -5473,8 +5473,8 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 .container-3XgAHv .embedFull-1HGV2S,
 .container-3XgAHv .markup-eYLPri code,
 .container-3XgAHv .markup-eYLPri code.inline {
-	background-color: #0F0F0F;
-	border-color: #0F0F0F;
+	background-color: #2b2d31;
+	border-color: #2b2d31;
 }
 .container-3XgAHv .content-3spvdd {
 	background-color: #141414;
@@ -6022,7 +6022,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 	background: linear-gradient(to right,#161616, 99% ,transparent);
 }
 .container-36u7Lw .rowWrapper-N-4fji .nameCellText-2i43C0 {
-	filter: drop-shadow(-1px 2px 0px #0F0F0F);
+	filter: drop-shadow(-1px 2px 0px #2b2d31);
 }
 .container-36u7Lw .rowWrapper-N-4fji .nameBodyCell-2RYQL9 {
 	padding-left: 8px;
@@ -6478,7 +6478,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 
 /* Settings Sidebar */
 .standardSidebarView-E9Pc3j .sidebarRegionScroller-FXiQOh {
-	background-color: #0F0F0F;
+	background-color: #2b2d31;
 }
 .standardSidebarView-E9Pc3j .sidebarRegion-1VBisG {
 	min-width: 230px;
@@ -7663,7 +7663,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 .root-1CAIjD .contentWrapper-2pLX__ .nav-3FEad7,
 .root-1CAIjD .contentWrapper-2pLX__ .wrapper-3u51GQ {
-	background-color: #0F0F0F;
+	background-color: #2b2d31;
 }
 .root-1CAIjD .contentWrapper-2pLX__ .navButtonActive-2Ad1wV {
 	background-color: var(--bd-blue);
@@ -8634,7 +8634,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 .modalSize-3WSXDU.root-1CAIjD .card-m7VgZ8:hover,
 .modalSize-3WSXDU.root-1CAIjD .selectorButton-3sW6Qm:hover,
 .modalSize-3WSXDU.root-1CAIjD .item-2OyinQ.selectorButtonPremiumRequired-2pGGEj {
-	background-color: #0F0F0F;
+	background-color: #2b2d31;
 }
 .modalSize-3WSXDU.root-1CAIjD .qualitySettingsContainer-2LjkfM {
 	background-color: #1C1C1C;
